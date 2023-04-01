@@ -1,0 +1,142 @@
+<VisualStudioProject>
+  <CSHARP ProjectType="local" ProjectVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="4d36f1ce-7606-4648-af68-54c954f7ca96">
+    <Build>
+      <Settings AssemblyName="QCChart2DNet" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library">
+        <Config Name="Debug" AllowUnsafeBlocks="true" DefineConstants="DEBUG;TRACE" DebugSymbols="true" IncrementalBuild="false" NoStdLib="false" Optimize="false" OutputPath="bin\Debug\" WarningLevel="4" />
+        <Config Name="Release" AllowUnsafeBlocks="true" DefineConstants="TRACE" DebugSymbols="false" IncrementalBuild="false" NoStdLib="false" Optimize="true" OutputPath="bin\Release\" WarningLevel="4" />
+      </Settings>
+      <References>
+        <Reference Name="System.Windows.Forms" AssemblyName="System.Windows.Forms" />
+        <Reference Name="System.Drawing" AssemblyName="System.Drawing" />
+        <Reference Name="System.Data" AssemblyName="System.Data" />
+        <Reference Name="System" AssemblyName="System" />
+      </References>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Global.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Rectangle2D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Arc2D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartObj.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Arrow.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\GraphObj.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\GroupPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ArrowPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\AutoScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Axis.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartText.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\AxisLabels.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\AxisTitle.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Background.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartLabel.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\NumericLabel.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BarDatapointValue.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BoolArray.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BubblePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Legend.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BubblePlotLegend.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BubblePlotLegendItem.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\BufferedImage.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\CandlestickPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\UserCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\WorldCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\WorkingCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PhysicalCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\CartesianCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\CellPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\CFSupportClasses.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartAttribute.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartBrushes.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartCalendar.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartException.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartImage.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartInfo.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartPens.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartPrint.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Scale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartShape.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartSupport.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartSymbol.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartTitle.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartView.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\MouseListener.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ChartZoom.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimpleDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ContourDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ContourPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\CSV.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\DataCursor.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\DataToolTip.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Dimension.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\DoubleArray.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\DoubleArray2D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\DummyObj.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ErrorBarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\ErrorMessages.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\FindObj.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\FloatingBarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Grid.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\GroupBarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\GroupDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\GroupPoint2D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\HistogramPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\IntArray.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LegendItem.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LinearAutoScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LinearAxis.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LinearScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LineGapPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LogAutoScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LogAxis.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\LogScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Marker.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\MoveData.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\MoveObj.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\MultiLinePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\NearestPointData.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\NumericAxisLabels.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\OHLCPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PieChart.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Point2D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Point3D.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarAxes.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarAxesLabels.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarGrid.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarLinePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\PolarScatterPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\Polysurface.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\QBrush.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\QPen.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\RelativeText.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimplePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimpleBarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimpleLineMarkerPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimpleLinePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SimpleScatterPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StackedBarPlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StackedLinePlot.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StandardLegend.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StringArray.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StringAxisLabels.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\StringLabel.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\SurfaceFunction.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TickMark.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeArray.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeAutoScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeAxis.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeAxisLabels.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeCoordinates.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeGroupDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeLabel.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeScale.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com\quinncurtis\chart2dnet\TimeSimpleDataset.cs" SubType="Code" BuildAction="Compile" />
+        <File RelPath="com.quinncurtis.chart2dnet.ChartView.resources" BuildAction="EmbeddedResource" />
+      </Include>
+    </Files>
+  </CSHARP>
+</VisualStudioProject>

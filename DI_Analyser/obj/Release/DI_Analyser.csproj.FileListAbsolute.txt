@@ -1,0 +1,90 @@
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.ImpaqFileSystemLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.SignalComponentLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.UFF58Lib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.WaveFileLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.Report.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\FFT Interpretation.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\IMChart2D.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\IMChart2D.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\FFT Interpretation.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\Interop.ImpaqFileSystemLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\Interop.SignalComponentLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\Interop.UFF58Lib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Release\Interop.WaveFileLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Forms.BalDataForm.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Forms.frmnewFolder.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Forms.frmOpenFile.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Forms.frmTable.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls.BarChart.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.CSVReport1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Form1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.frmAboutus.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Forms.frmHasp.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.PrintRibbonControllerResources.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Properties.Resources.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.Report.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.SideBandRatio.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.SideBandTrend.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.SideBandValue.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Reporting.MultiFileReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Reporting.SelectedReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.csproj.GenerateResource.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\VibAnalyser.exe.licenses
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\DI_Analyser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\VibAnalyser.exe
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Release\VibAnalyser.pdb

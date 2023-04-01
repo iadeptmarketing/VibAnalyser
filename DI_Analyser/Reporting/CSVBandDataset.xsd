@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CSVBandDataset" targetNamespace="http://tempuri.org/CSVBandDataset.xsd" xmlns:mstns="http://tempuri.org/CSVBandDataset.xsd" xmlns="http://tempuri.org/CSVBandDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CSVBandDataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="CSVBandDataset" msprop:Generator_UserDSName="CSVBandDataset" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="BandAlarmDataSet" msprop:Generator_UserTableName="BandAlarmDataSet" msprop:Generator_RowDeletedName="BandAlarmDataSetRowDeleted" msprop:Generator_TableClassName="BandAlarmDataSetDataTable" msprop:Generator_RowChangedName="BandAlarmDataSetRowChanged" msprop:Generator_RowClassName="BandAlarmDataSetRow" msprop:Generator_RowChangingName="BandAlarmDataSetRowChanging" msprop:Generator_RowEvArgName="BandAlarmDataSetRowChangeEvent" msprop:Generator_RowEvHandlerName="BandAlarmDataSetRowChangeEventHandler" msprop:Generator_TablePropName="BandAlarmDataSet" msprop:Generator_TableVarName="tableBandAlarmDataSet" msprop:Generator_RowDeletingName="BandAlarmDataSetRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BFreq" msprop:Generator_UserColumnName="BFreq" msprop:Generator_ColumnPropNameInRow="BFreq" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnBFreq" msprop:Generator_ColumnPropNameInTable="BFreqColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BHValue" msprop:Generator_UserColumnName="BHValue" msprop:Generator_ColumnPropNameInRow="BHValue" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnBHValue" msprop:Generator_ColumnPropNameInTable="BHValueColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="BLValue" msprop:Generator_UserColumnName="BLValue" msprop:Generator_ColumnPropNameInRow="BLValue" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnBLValue" msprop:Generator_ColumnPropNameInTable="BLValueColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="XData" msprop:Generator_UserColumnName="XData" msprop:Generator_ColumnPropNameInRow="XData" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnXData" msprop:Generator_ColumnPropNameInTable="XDataColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Ydata" msprop:Generator_UserColumnName="Ydata" msprop:Generator_ColumnPropNameInRow="Ydata" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnYdata" msprop:Generator_ColumnPropNameInTable="YdataColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="BandGraph" msprop:Generator_UserTableName="BandGraph" msprop:Generator_RowDeletedName="BandGraphRowDeleted" msprop:Generator_TableClassName="BandGraphDataTable" msprop:Generator_RowChangedName="BandGraphRowChanged" msprop:Generator_RowClassName="BandGraphRow" msprop:Generator_RowChangingName="BandGraphRowChanging" msprop:Generator_RowEvArgName="BandGraphRowChangeEvent" msprop:Generator_RowEvHandlerName="BandGraphRowChangeEventHandler" msprop:Generator_TablePropName="BandGraph" msprop:Generator_TableVarName="tableBandGraph" msprop:Generator_RowDeletingName="BandGraphRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Graph" msprop:Generator_UserColumnName="Graph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnGraph" msprop:Generator_ColumnPropNameInTable="GraphColumn" msprop:Generator_ColumnPropNameInRow="Graph" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,451 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.3077</ProjectVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BA90A942-8AFC-4EC1-97A7-CEBBDB9B5986}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyName>IMChart2D</AssemblyName>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <SignAssembly>false</SignAssembly>
+    <RootNamespace>IMCharting</RootNamespace>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugSymbols>true</DebugSymbols>
+    <NoStdLib>false</NoStdLib>
+    <Optimize>false</Optimize>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DefineConstants>TRACE</DefineConstants>
+    <DebugSymbols>false</DebugSymbols>
+    <NoStdLib>false</NoStdLib>
+    <Optimize>true</Optimize>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="com\iAM\chart2dnet\Arc2D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Arrow.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ArrowPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\AutoScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Axis.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\AxisLabels.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\AxisTitle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Background.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BarDatapointValue.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BoolArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BubblePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BubblePlotLegend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BubblePlotLegendItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\BufferedImage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CandlestickPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CartesianCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CellPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CFSupportClasses.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartAttribute.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartBrushes.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartCalendar.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartImage.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartLabel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartPens.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartPrint.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartShape.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartSupport.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartSymbol.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartText.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartTitle.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ChartZoom.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ContourDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ContourPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CSV.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\CustomDataToolTip.cs" />
+    <Compile Include="com\iAM\chart2dnet\DataCursor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\DataToolTip.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Dimension.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\DoubleArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\DoubleArray2D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\DummyObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ErrorBarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\ErrorMessages.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\FindObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\FloatingBarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\GraphObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Grid.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\GroupBarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\GroupDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\GroupPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\GroupPoint2D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\HistogramPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\IntArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Legend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LegendItem.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LinearAutoScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LinearAxis.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LinearScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LineGapPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LogAutoScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LogAxis.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\LogScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Marker.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\MouseListener.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\MoveData.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\MoveObj.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\MultiLinePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\NearestPointData.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\NumericAxisLabels.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\NumericLabel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\OHLCPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PhysicalCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PieChart.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Point2D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Point3D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarAxes.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarAxesLabels.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarGrid.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarLinePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\PolarScatterPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Polysurface.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\QBrush.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\QPen.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Rectangle2D.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\RelativeText.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\Scale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimpleBarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimpleDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimpleLineMarkerPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimpleLinePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimplePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SimpleScatterPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StackedBarPlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StackedLinePlot.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StandardLegend.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StringArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StringAxisLabels.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\StringLabel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\SurfaceFunction.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TickMark.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeArray.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeAutoScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeAxis.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeAxisLabels.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeGroupDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeLabel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeScale.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\TimeSimpleDataset.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\UserCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\WorkingCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="com\iAM\chart2dnet\WorldCoordinates.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI_Analyser", "DI_Analyser\DI_Analyser.csproj", "{61D42FF8-92C1-4F77-B026-99AE96943B41}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{706C109E-592D-4857-9379-EF3801A1A58A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Performance1.psess = Performance1.psess
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AnalyserSetup", "AnalyserSetup\AnalyserSetup.vdproj", "{BE6DFF06-DAD3-4E13-8A11-CD6331E1C6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61D42FF8-92C1-4F77-B026-99AE96943B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D42FF8-92C1-4F77-B026-99AE96943B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D42FF8-92C1-4F77-B026-99AE96943B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D42FF8-92C1-4F77-B026-99AE96943B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6DFF06-DAD3-4E13-8A11-CD6331E1C6C0}.Debug|Any CPU.ActiveCfg = Debug
+		{BE6DFF06-DAD3-4E13-8A11-CD6331E1C6C0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE7A727-EA4B-49FB-B9B4-DE108DFCEE01}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ConformanceCheckDataSet" targetNamespace="http://tempuri.org/ConformanceCheckDataSet.xsd" xmlns:mstns="http://tempuri.org/ConformanceCheckDataSet.xsd" xmlns="http://tempuri.org/ConformanceCheckDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ConformanceCheckDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="ConformanceCheckDataSet" msprop:Generator_UserDSName="ConformanceCheckDataSet" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CCTable" msprop:Generator_UserTableName="CCTable" msprop:Generator_RowDeletedName="CCTableRowDeleted" msprop:Generator_TableClassName="CCTableDataTable" msprop:Generator_RowChangedName="CCTableRowChanged" msprop:Generator_RowClassName="CCTableRow" msprop:Generator_RowChangingName="CCTableRowChanging" msprop:Generator_RowEvArgName="CCTableRowChangeEvent" msprop:Generator_RowEvHandlerName="CCTableRowChangeEventHandler" msprop:Generator_TablePropName="CCTable" msprop:Generator_TableVarName="tableCCTable" msprop:Generator_RowDeletingName="CCTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="AccGraph" msprop:Generator_UserColumnName="AccGraph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnAccGraph" msprop:Generator_ColumnPropNameInTable="AccGraphColumn" msprop:Generator_ColumnPropNameInRow="AccGraph" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="VelGraph" msprop:Generator_UserColumnName="VelGraph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnVelGraph" msprop:Generator_ColumnPropNameInTable="VelGraphColumn" msprop:Generator_ColumnPropNameInRow="VelGraph" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="DispGraph" msprop:Generator_UserColumnName="DispGraph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnDispGraph" msprop:Generator_ColumnPropNameInTable="DispGraphColumn" msprop:Generator_ColumnPropNameInRow="DispGraph" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

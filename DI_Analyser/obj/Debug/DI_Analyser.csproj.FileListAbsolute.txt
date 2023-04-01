@@ -1,0 +1,1374 @@
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\bin\Debug\DI_Analyser.exe
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\bin\Debug\DI_Analyser.pdb
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Documents and Settings\IADEPT\Desktop\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\DI_Analyser\DI_Analyser\bin\Debug\DI_Analyser.exe
+F:\Analyser\DI_Analyser\DI_Analyser\bin\Debug\DI_Analyser.pdb
+F:\Analyser\DI_Analyser\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+F:\Analyser\DI_Analyser\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Analyser\DI_Analyser\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.exe
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.pdb
+F:\Analyser\18 01 2010\DI_Analyser\bin\Debug\DI_Analyser.exe
+F:\Analyser\18 01 2010\DI_Analyser\bin\Debug\DI_Analyser.pdb
+F:\Analyser\18 01 2010\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Analyser\18 01 2010\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\18 01 2010\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+F:\Analyser\Analyser\DI_Analyser\bin\Debug\DI_Analyser.exe
+F:\Analyser\Analyser\DI_Analyser\bin\Debug\DI_Analyser.pdb
+F:\Analyser\Analyser\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Analyser\Analyser\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+F:\Analyser\Analyser\Analyser\DI_Analyser\bin\Debug\DI_Analyser.exe
+F:\Analyser\Analyser\Analyser\DI_Analyser\bin\Debug\DI_Analyser.pdb
+F:\Analyser\Analyser\Analyser\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+F:\Analyser\Analyser\Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+\\Factory\updates\Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+\\Factory\updates\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+\\Factory\updates\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+\\Factory\updates\Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DI_Analyser.exe
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DI_Analyser.pdb
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.Xpo.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\hasp_net_windows.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.PrintRibbonControllerResources.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Properties.Resources.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe.licenses
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.exe
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.pdb
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\bin\Debug\AKSHASP.dll
+C:\Documents and Settings\Subodh\Desktop\Analyser\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\bin\Debug\trial6.dll
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Analyserfrom subodh\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\bin\Debug\trial6.dll
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Freezed analyser 1.1\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\bin\Debug\trial6.dll
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Changes in Freezed analyser 1.1 according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\bin\Debug\trial6.dll
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Freezed analyser 1.1 with changes according to NPCIL\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Current analyser 1.1 Application bearing with key\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\Changes according to rene Current analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\rene Current analyser 1.1 Application 3 aug\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application for kloosterman\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\Interop.SignalComponentLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\Interop.UFF58Lib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\bin\Debug\Interop.WaveFileLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Interop.SignalComponentLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Interop.UFF58Lib.dll
+F:\Analyser\Analyser\analyser 1.1 Application 11 april 2012\DI_Analyser\obj\Debug\Interop.WaveFileLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\FFT Interpretation.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\Interop.Word.dll
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\GenerateResource-ResGen.read.4.tlog
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Analyser\Analyser\analyser 1.1 Application\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+C:\Users\rohit_000\Desktop\anuj\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+C:\Users\rohit_000\Desktop\amit\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.PivotGrid.v12.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Printing.v12.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.UI.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Xpo.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.Design.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.Extensions.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraRichEdit.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.Extensions.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.CodeParser.v12.2.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Office.v12.2.Core.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.PivotGrid.v12.2.Core.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.UI.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.Extensions.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v12.2.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Office.v12.2.Core.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.xml
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraReports.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraReports.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraReports.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraReports.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Office.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Office.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Office.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Office.v12.2.Core.resources.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+D:\Amit Jain\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Xpo.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.Design.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.xml
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+D:\anuj data 12nov\28nov\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Xpo.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.UI.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.Design.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraScheduler.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v12.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.Extensions.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.RichEdit.v12.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.CodeParser.v12.2.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Office.v12.2.Core.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Printing.v12.2.Core.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.Wizard.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.PivotGrid.v12.2.Core.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.UI.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.Extensions.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraRichEdit.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraVerticalGrid.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v12.2.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.RichEdit.v12.2.Core.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Office.v12.2.Core.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.xml
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Printing.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraCharts.v12.2.Wizard.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.PivotGrid.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Utils.v12.2.UI.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraReports.v12.2.Extensions.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraRichEdit.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraCharts.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraTreeList.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraNavBar.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraVerticalGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraPrinting.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraReports.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraReports.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraReports.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraReports.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.XtraPivotGrid.v12.2.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.RichEdit.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\de\DevExpress.Office.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\es\DevExpress.Office.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ja\DevExpress.Office.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\ru\DevExpress.Office.v12.2.Core.resources.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+D:\Anuj data 10oct\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.xml
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.ImpaqFileSystemLib.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojResolveAssemblyReference.cache
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.Cache
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+D:\All Backup\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.cache
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CoreCompileInputs.cache
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\stdole.dll
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\office.xml
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
+C:\Users\cjaina7\Desktop\Amit Jain\iadept\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csprojAssemblyReference.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb

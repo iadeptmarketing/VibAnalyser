@@ -1,0 +1,30 @@
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.dll
+C:\Documents and Settings\IADEPT\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.pdb
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.dll
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.pdb
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

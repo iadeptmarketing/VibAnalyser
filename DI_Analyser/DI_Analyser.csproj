@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{61D42FF8-92C1-4F77-B026-99AE96943B41}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Analyser</RootNamespace>
+    <AssemblyName>VibAnalyser</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>VibAnalyser.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AKSHASP, Version=1.1.239.0, Culture=neutral, PublicKeyToken=05b7b959d7ced269">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\AKSHASP.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\AxInterop.ShockwaveFlashObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=7.8.0.6, Culture=neutral, PublicKeyToken=5fd520d36328f741, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v8.2">
+      <HintPath>bin\DevExpress.Data.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v8.2">
+      <HintPath>bin\DevExpress.Utils.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v8.2">
+      <HintPath>bin\DevExpress.XtraBars.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v8.2">
+      <HintPath>bin\DevExpress.XtraEditors.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v8.2">
+      <HintPath>bin\DevExpress.XtraPrinting.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v8.2">
+      <HintPath>bin\DevExpress.XtraReports.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v8.2">
+      <HintPath>bin\DevExpress.XtraTreeList.v8.2.dll</HintPath>
+    </Reference>
+    <Reference Include="FFT Interpretation">
+      <HintPath>bin\FFT Interpretation.dll</HintPath>
+    </Reference>
+    <Reference Include="hasp_net_windows, Version=7.0.1.36183, Culture=neutral, PublicKeyToken=56120be447701319, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\hasp_net_windows.dll</HintPath>
+    </Reference>
+    <Reference Include="iAMChart3DNet, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\iAMChart3DNet.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IMChart2D, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Chart control by amit\bin\Debug\IMChart2D.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Word, Version=8.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF, Version=2.3.0.39, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <HintPath>..\OpenNETCF.dll</HintPath>
+    </Reference>
+    <Reference Include="R4ND_VS2005_Control, Version=1.0.3632.29543, Culture=neutral, processorArchitecture=x86">
+      <HintPath>..\R4ND_VS2005_Control.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="trial6, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\trial6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Bal_Control.cs" />
+    <Compile Include="Classes\BearingFF_Control.cs" />
+    <Compile Include="Classes\BearingLibraryClass.cs" />
+    <Compile Include="Classes\C911_class.cs" />
+    <Compile Include="Classes\CheckKey.cs" />
+    <Compile Include="Classes\CImageCreation.cs" />
+    <Compile Include="Classes\CSysPro.cs" />
+    <Compile Include="Classes\Dat_Control.cs" />
+    <Compile Include="Classes\DiagnosisClass.cs" />
+    <Compile Include="Classes\DummyEliteClass.cs" />
+    <Compile Include="Classes\ErrorLog_Class.cs" />
+    <Compile Include="Classes\Elite_Class.cs" />
+    <Compile Include="Classes\HASP_Control.cs" />
+    <Compile Include="Classes\NewHasp_Control.cs" />
+    <Compile Include="Classes\Peek.cs" />
+    <Compile Include="Classes\Report_Control.cs">
+    </Compile>
+    <Compile Include="Classes\ResizeArray_Control.cs" />
+    <Compile Include="Classes\StringCipher.cs" />
+    <Compile Include="Classes\UI_Controls.cs" />
+    <Compile Include="Classes\Common.cs" />
+    <Compile Include="Forms\BalDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BalDataForm.Designer.cs">
+      <DependentUpon>BalDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmnewFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmnewFolder.Designer.cs">
+      <DependentUpon>frmnewFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmOpenFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmOpenFile.Designer.cs">
+      <DependentUpon>frmOpenFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRpmCount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRpmCount.Designer.cs">
+      <DependentUpon>frmRpmCount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmTable.Designer.cs">
+      <DependentUpon>frmTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InstrumentConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InstrumentConnection.Designer.cs">
+      <DependentUpon>InstrumentConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Unit_IMXA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Unit_IMXA.Designer.cs">
+      <DependentUpon>Unit_IMXA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\3DGraphControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\3DGraphControl.Designer.cs">
+      <DependentUpon>3DGraphControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\BarChart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\BarChart.Designer.cs">
+      <DependentUpon>BarChart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\DataGrid_Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\DataGrid_Control.Designer.cs">
+      <DependentUpon>DataGrid_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\LineGraphControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\LineGraphControl.Designer.cs">
+      <DependentUpon>LineGraphControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\PolarPlot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\PolarPlot.Designer.cs">
+      <DependentUpon>PolarPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\TrendNodes_Form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\TrendNodes_Form.Designer.cs">
+      <DependentUpon>TrendNodes_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Graph Controls\WaterFallNodes_FormControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Graph Controls\WaterFallNodes_FormControl1.Designer.cs">
+      <DependentUpon>WaterFallNodes_FormControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interfaces\Bal_interface.cs" />
+    <Compile Include="interfaces\BearingFF_Interface.cs" />
+    <Compile Include="interfaces\C911_Interface.cs" />
+    <Compile Include="interfaces\Elite_Interface.cs" />
+    <Compile Include="interfaces\NewHASP_Interface.cs" />
+    <Compile Include="interfaces\ResizeArray_Interface.cs" />
+    <Compile Include="interfaces\UnitConverter_Interface.cs" />
+    <Compile Include="Reporting\CSVBandDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CSVBandDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\CSVBandReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporting\CSVBandReport.Designer.cs">
+      <DependentUpon>CSVBandReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\CSVdataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CSVdataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\CSVReport1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporting\CSVReport1.Designer.cs">
+      <DependentUpon>CSVReport1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAboutus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAboutus.designer.cs">
+      <DependentUpon>frmAboutus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHasp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHasp.Designer.cs">
+      <DependentUpon>frmHasp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InstrumentConnectionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InstrumentConnectionForm.Designer.cs">
+      <DependentUpon>InstrumentConnectionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="interfaces\Dat_Interface.cs" />
+    <Compile Include="interfaces\HASP_Interface.cs" />
+    <Compile Include="interfaces\Report_Interface.cs" />
+    <Compile Include="interfaces\UI_Interface.cs" />
+    <Compile Include="Forms\octaveSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\octaveSettings.Designer.cs">
+      <DependentUpon>octaveSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintRibbonControllerResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PrintRibbonControllerResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessUtils.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\BalDataForm.resx">
+      <DependentUpon>BalDataForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmnewFolder.resx">
+      <DependentUpon>frmnewFolder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmOpenFile.resx">
+      <DependentUpon>frmOpenFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRpmCount.resx">
+      <DependentUpon>frmRpmCount.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmTable.resx">
+      <DependentUpon>frmTable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InstrumentConnection.resx">
+      <DependentUpon>InstrumentConnection.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Unit_IMXA.resx">
+      <DependentUpon>Unit_IMXA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\3DGraphControl.resx">
+      <DependentUpon>3DGraphControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\BarChart.resx">
+      <DependentUpon>BarChart.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\DataGrid_Control.resx">
+      <DependentUpon>DataGrid_Control.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\LineGraphControl.resx">
+      <DependentUpon>LineGraphControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\PolarPlot.resx">
+      <DependentUpon>PolarPlot.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\TrendNodes_Form.resx">
+      <DependentUpon>TrendNodes_Form.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Graph Controls\WaterFallNodes_FormControl1.resx">
+      <DependentUpon>WaterFallNodes_FormControl1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\CSVBandReport.resx">
+      <DependentUpon>CSVBandReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\CSVReport1.resx">
+      <DependentUpon>CSVReport1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAboutus.resx">
+      <DependentUpon>frmAboutus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHasp.resx">
+      <DependentUpon>frmHasp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InstrumentConnectionForm.resx">
+      <DependentUpon>InstrumentConnectionForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\octaveSettings.resx">
+      <DependentUpon>octaveSettings.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintRibbonControllerResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>PrintRibbonControllerResources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SideBandRatio.resx">
+      <DependentUpon>SideBandRatio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SideBandTrend.resx">
+      <DependentUpon>SideBandTrend.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SideBandValue.resx">
+      <DependentUpon>SideBandValue.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\MultiFileReport.resx">
+      <DependentUpon>MultiFileReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\SelectedReport.resx">
+      <DependentUpon>SelectedReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporting\WAVESelectedReport.resx">
+      <DependentUpon>WAVESelectedReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="..\.editorconfig">
+      <Link>.editorconfig</Link>
+    </None>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Forms\Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SideBandRatio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SideBandRatio.designer.cs">
+      <DependentUpon>SideBandRatio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SideBandTrend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SideBandTrend.designer.cs">
+      <DependentUpon>SideBandTrend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SideBandValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SideBandValue.designer.cs">
+      <DependentUpon>SideBandValue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\MultiFileDataSet.cs">
+      <DependentUpon>MultiFileDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\MultiFileDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MultiFileDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\MultiFileReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporting\MultiFileReport.Designer.cs">
+      <DependentUpon>MultiFileReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\SelectedReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporting\SelectedReport.Designer.cs">
+      <DependentUpon>SelectedReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\WAVESelectedDataset.cs">
+      <DependentUpon>WAVESelectedDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\WAVESelectedDataset.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>WAVESelectedDataset.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporting\WAVESelectedReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reporting\WAVESelectedReport.Designer.cs">
+      <DependentUpon>WAVESelectedReport.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\openfolder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closedFolder.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkRed.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying in graph.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orbi1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\unmagnifying in graph.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wf.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AquaMarine.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bisque.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Black.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BlueViolet.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chocolate.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Coral.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cyan.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkBlue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkGoldenRod.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkGreen.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkKhaki.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darkmagenta.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darkorange.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Darkorchid.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkRed1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkseaGreen.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkSlateBlue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DarkVoilet.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Deeppink.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DeepSkyBlue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DimGrey.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DodgerBlue.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FireBrick.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ForestGreen.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GreenYellow.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HotPink.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IndianRed.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Orange.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SandyBrown.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\White.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previus.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExtraZooming.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ExtraZooming.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\company_name.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\converter.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CopyGraph.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trend.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cp.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cp1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AreaPlot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AreaPlot.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rucd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bargraph.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CSVf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reporting\CSVdataset.xsc">
+      <DependentUpon>CSVdataset.xsd</DependentUpon>
+    </None>
+    <None Include="Reporting\CSVdataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CSVdataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reporting\CSVdataset.xss">
+      <DependentUpon>CSVdataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\WAVf.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DAT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="Resources\envhasp_splash.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edited IMXA460-22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reporting\CSVBandDataset.xsc">
+      <DependentUpon>CSVBandDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Reporting\CSVBandDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CSVBandDataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reporting\CSVBandDataset.xss">
+      <DependentUpon>CSVBandDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Edited IMXA460-large.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vibanalyst.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reporting\WAVESelectedDataset.xsc">
+      <DependentUpon>WAVESelectedDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Reporting\WAVESelectedDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>WAVESelectedDataset.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reporting\WAVESelectedDataset.xss">
+      <DependentUpon>WAVESelectedDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\10652.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Reporting\MultiFileDataSet.xsc">
+      <DependentUpon>MultiFileDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Reporting\MultiFileDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MultiFileDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reporting\MultiFileDataSet.xss">
+      <DependentUpon>MultiFileDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\open.png" />
+    <None Include="Resources\fieldpac.png" />
+    <Content Include="VibAnalyser.ico" />
+    <None Include="Resources\111.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="ImpaqFileSystemLib">
+      <Guid>{285616C0-F30E-407C-986C-2F3763BB8528}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

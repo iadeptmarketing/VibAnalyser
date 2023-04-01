@@ -1,0 +1,21 @@
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\bin\Debug\IMChart2D.dll
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\bin\Debug\IMChart2D.pdb
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\obj\Debug\IMCharting.Properties.Resources.resources
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\obj\Debug\QCChart2DNet.csproj.GenerateResource.Cache
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\obj\Debug\IMChart2D.dll
+C:\Documents and Settings\IADEPT\My Documents\Reflector\Disassembler\QCChart2DNet\obj\Debug\IMChart2D.pdb
+E:\Chart control by amit\bin\Debug\IMChart2D.dll
+E:\Chart control by amit\bin\Debug\IMChart2D.pdb
+E:\Chart control by amit\obj\Debug\ResolveAssemblyReference.cache
+E:\Chart control by amit\obj\Debug\IMCharting.Properties.Resources.resources
+E:\Chart control by amit\obj\Debug\QCChart2DNet.csproj.GenerateResource.Cache
+E:\Chart control by amit\obj\Debug\IMChart2D.dll
+E:\Chart control by amit\obj\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\bin\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\bin\Debug\IMChart2D.pdb
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\obj\Debug\ResolveAssemblyReference.cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\obj\Debug\IMCharting.Properties.Resources.resources
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\obj\Debug\QCChart2DNet.csproj.GenerateResource.Cache
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\obj\Debug\IMChart2D.dll
+F:\Analyser\Analyser\Current analyser 1.1 Application\DI_Analyser\Chart control by amit\obj\Debug\IMChart2D.pdb

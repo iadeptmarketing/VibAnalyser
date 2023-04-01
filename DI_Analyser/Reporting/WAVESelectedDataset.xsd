@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="WAVESelectedDataset" targetNamespace="http://tempuri.org/WAVESelectedDataset.xsd" xmlns:mstns="http://tempuri.org/WAVESelectedDataset.xsd" xmlns="http://tempuri.org/WAVESelectedDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="WAVESelectedDataset" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="WAVESelectedDataset" msprop:Generator_UserDSName="WAVESelectedDataset" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="WAVDatatable" msprop:Generator_UserTableName="WAVDatatable" msprop:Generator_RowDeletedName="WAVDatatableRowDeleted" msprop:Generator_TableClassName="WAVDatatableDataTable" msprop:Generator_RowChangedName="WAVDatatableRowChanged" msprop:Generator_RowClassName="WAVDatatableRow" msprop:Generator_RowChangingName="WAVDatatableRowChanging" msprop:Generator_RowEvArgName="WAVDatatableRowChangeEvent" msprop:Generator_RowEvHandlerName="WAVDatatableRowChangeEventHandler" msprop:Generator_TablePropName="WAVDatatable" msprop:Generator_TableVarName="tableWAVDatatable" msprop:Generator_RowDeletingName="WAVDatatableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TimeGraph" msprop:Generator_UserColumnName="TimeGraph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnTimeGraph" msprop:Generator_ColumnPropNameInTable="TimeGraphColumn" msprop:Generator_ColumnPropNameInRow="TimeGraph" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="FFTGraph" msprop:Generator_UserColumnName="FFTGraph" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnFFTGraph" msprop:Generator_ColumnPropNameInTable="FFTGraphColumn" msprop:Generator_ColumnPropNameInRow="FFTGraph" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="SamplingFreq" msprop:Generator_UserColumnName="SamplingFreq" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnSamplingFreq" msprop:Generator_ColumnPropNameInTable="SamplingFreqColumn" msprop:Generator_ColumnPropNameInRow="SamplingFreq" type="xs:string" minOccurs="0" />
+              <xs:element name="FrequencyRange" msprop:Generator_UserColumnName="FrequencyRange" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnFrequencyRange" msprop:Generator_ColumnPropNameInTable="FrequencyRangeColumn" msprop:Generator_ColumnPropNameInRow="FrequencyRange" type="xs:string" minOccurs="0" />
+              <xs:element name="LineOfResolution" msprop:Generator_UserColumnName="LineOfResolution" msprop:nullValue="_empty" msprop:Generator_ColumnVarNameInTable="columnLineOfResolution" msprop:Generator_ColumnPropNameInTable="LineOfResolutionColumn" msprop:Generator_ColumnPropNameInRow="LineOfResolution" type="xs:string" minOccurs="0" />
+              <xs:element name="ExectTime" msprop:Generator_UserColumnName="ExectTime" msprop:Generator_ColumnPropNameInRow="ExectTime" msprop:Generator_ColumnVarNameInTable="columnExectTime" msprop:Generator_ColumnPropNameInTable="ExectTimeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Channel" msprop:Generator_UserColumnName="Channel" msprop:Generator_ColumnPropNameInRow="Channel" msprop:Generator_ColumnVarNameInTable="columnChannel" msprop:Generator_ColumnPropNameInTable="ChannelColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
