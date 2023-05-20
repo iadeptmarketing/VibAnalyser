@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 
 using System.Text;
-using Aladdin.HASP;
 using DI_Analyser.interfaces;
 using trial6;
 using System.Windows.Forms;
