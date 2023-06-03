@@ -40,7 +40,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>..\bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -158,8 +158,6 @@
     <Compile Include="Classes\BearingLibraryClass.cs" />
     <Compile Include="Classes\C911_class.cs" />
     <Compile Include="Classes\CheckKey.cs" />
-    <Compile Include="Classes\CImageCreation.cs" />
-    <Compile Include="Classes\CSysPro.cs" />
     <Compile Include="Classes\Dat_Control.cs" />
     <Compile Include="Classes\DiagnosisClass.cs" />
     <Compile Include="Classes\DummyEliteClass.cs" />
@@ -299,12 +297,6 @@
     <Compile Include="Forms\frmAboutus.designer.cs">
       <DependentUpon>frmAboutus.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\frmHasp.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Forms\frmHasp.Designer.cs">
-      <DependentUpon>frmHasp.cs</DependentUpon>
-    </Compile>
     <Compile Include="Forms\InstrumentConnectionForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -399,10 +391,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmAboutus.resx">
       <DependentUpon>frmAboutus.cs</DependentUpon>
-      <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Forms\frmHasp.resx">
-      <DependentUpon>frmHasp.cs</DependentUpon>
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\InstrumentConnectionForm.resx">

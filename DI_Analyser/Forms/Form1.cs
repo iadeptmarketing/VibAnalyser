@@ -81,7 +81,6 @@ using DI_Analyser.Classes;
 using DI_Analyser.interfaces;
 using DI_Analyser.Forms;
 using System.Management;
-using Aladdin.HASP;
 //using Microsoft.Office.Interop.Excel;
 using Analyser.interfaces;
 using Analyser.Classes;
@@ -25251,15 +25250,15 @@ namespace DI_Analyser
         string spath = null;
         Report _Report = new Report();
         string sParameter = null;
-        CImageCreation m_objImageCreation = null; // new CImageCreation();
-        CSysPro m_objCSysPro = null;
+        //CImageCreation m_objImageCreation = null; // new CImageCreation();
+        //CSysPro m_objCSysPro = null;
         bool m_bAcknowledgement = false;
         bool bAck = false;
         bool bNever = false;
         bool NotNow = false;
         bool bOnce = false;
-        Hasp hasp;
-        HaspStatus status = new HaspStatus();
+        //Hasp hasp;
+        //HaspStatus status = new HaspStatus();
         private bool m_bTryButtonClick = false;
         private bool m_bDemoButtonClicked = false;
         public string vendorCode = null;
@@ -25473,42 +25472,42 @@ namespace DI_Analyser
                 TrendValue = Convert.ToString(iConstSBTrendValue);
                 rpGraphTools.Visible = false;
                 UsbController();
-                m_objImageCreation = new CImageCreation();
-                m_objCSysPro = new CSysPro();
-                if (m_objCSysPro != null)
-                {
-                    m_objCSysPro.ExitButtonClicked +=
-                        new CSysPro.ExitButtonClickHandler(m_objCSysPro_ExitButtonClicked);
-                    m_objCSysPro.DemoButtonClick += new CSysPro.ExitButtonClickHandler(m_objCSysPro_DemoButtonClick);
-                    m_objCSysPro.TryButtonClicked += new CSysPro.ExitButtonClickHandler(m_objCSysPro_TryButtonClicked);
-                }
+                //m_objImageCreation = new CImageCreation();
+                //m_objCSysPro = new CSysPro();
+                //if (m_objCSysPro != null)
+                //{
+                //    m_objCSysPro.ExitButtonClicked +=
+                //        new CSysPro.ExitButtonClickHandler(m_objCSysPro_ExitButtonClicked);
+                //    m_objCSysPro.DemoButtonClick += new CSysPro.ExitButtonClickHandler(m_objCSysPro_DemoButtonClick);
+                //    m_objCSysPro.TryButtonClicked += new CSysPro.ExitButtonClickHandler(m_objCSysPro_TryButtonClicked);
+                //}
 
-                m_objHaspCheck = new Thread(new ThreadStart(CheckHasp));
+                //m_objHaspCheck = new Thread(new ThreadStart(CheckHasp));
                 //Rockey_Thread = new Thread(new ThreadStart(CheckRockey));
-                m_objHaspCheck.Name = "CheckHaspBG";
+                //m_objHaspCheck.Name = "CheckHaspBG";
                 //Rockey_Thread.Name = "CheckRockey";
                 //bAcknowledge = m_objCSysPro.Test_Rockey();
-                bAcknowledge = m_objCSysPro.Test();
-                //Rockey
-                if (m_objImageCreation != null)
-                {
-                    byte[] arrBytes = m_objImageCreation.GetBytes();
+                //bAcknowledge = m_objCSysPro.Test();
+                ////Rockey
+                //if (m_objImageCreation != null)
+                //{
+                //    byte[] arrBytes = m_objImageCreation.GetBytes();
 
-                    if (arrBytes != null)
-                    {
-                        m_objImageCreation.FirstTest(arrBytes);
-                        m_bAcknowledgement = m_objImageCreation.SecondTest(arrBytes);
-                    }
-                }
+                //    if (arrBytes != null)
+                //    {
+                //        m_objImageCreation.FirstTest(arrBytes);
+                //        m_bAcknowledgement = m_objImageCreation.SecondTest(arrBytes);
+                //    }
+                //}
 
-                //Rockey
-                //if (!bAcknowledge || !m_bAcknowledgement)
-                //    m_objCSysPro.DCB();
-                if (!bAcknowledge) //|| !m_bAcknowledgement)
-                {
-                    m_objCSysPro.OpenFrm();
-                }
-                else
+                ////Rockey
+                ////if (!bAcknowledge || !m_bAcknowledgement)
+                ////    m_objCSysPro.DCB();
+                //if (!bAcknowledge) //|| !m_bAcknowledgement)
+                //{
+                //    m_objCSysPro.OpenFrm();
+                //}
+                //else
                 {
                     SetupToolMenu();
                 }
@@ -25535,132 +25534,132 @@ namespace DI_Analyser
             }
         }
 
-        private void CheckRockey()
-        {
-            //try
-            //{
+        //private void CheckRockey()
+        //{
+        //    //try
+        //    //{
 
-            //    //for (int i = 0; i < 10; i++)
-            //    {
-            //        if (m_objCSysPro != null)
-            //        {
-            //            bAck = m_objCSysPro.Test_Rockey();
-            //            if (bAck == true)
-            //            {
-            //                //if (rbBearingNumber.Checked)
-            //                //{
-            //                //    cmbbxManufacturer.Enabled = true;
-            //                //    cmbbxBearingNumber.Enabled = true;
-            //                //}                            
-            //            }
-            //            if (bAck == false)
-            //            {
-            //                cmbbxBearingNumber.Items.Clear();
-            //                cmbbxBearingNumber.Text = "";
-            //                tbBalls.Text = "0";
-            //                tbBPFI.Text = "0";
-            //                tbBPFO.Text = "0";
-            //                tbBSF.Text = "0";
-            //                tbFTF.Text = "0";
-            //            }
-            //        }
-            //    }
-            //}//end( try)
-            //catch (Exception ex)
-            //{
-            //    ErrorLogFile(ex);
-            //}//end(catch (Exception ex))
-
-
+        //    //    //for (int i = 0; i < 10; i++)
+        //    //    {
+        //    //        if (m_objCSysPro != null)
+        //    //        {
+        //    //            bAck = m_objCSysPro.Test_Rockey();
+        //    //            if (bAck == true)
+        //    //            {
+        //    //                //if (rbBearingNumber.Checked)
+        //    //                //{
+        //    //                //    cmbbxManufacturer.Enabled = true;
+        //    //                //    cmbbxBearingNumber.Enabled = true;
+        //    //                //}                            
+        //    //            }
+        //    //            if (bAck == false)
+        //    //            {
+        //    //                cmbbxBearingNumber.Items.Clear();
+        //    //                cmbbxBearingNumber.Text = "";
+        //    //                tbBalls.Text = "0";
+        //    //                tbBPFI.Text = "0";
+        //    //                tbBPFO.Text = "0";
+        //    //                tbBSF.Text = "0";
+        //    //                tbFTF.Text = "0";
+        //    //            }
+        //    //        }
+        //    //    }
+        //    //}//end( try)
+        //    //catch (Exception ex)
+        //    //{
+        //    //    ErrorLogFile(ex);
+        //    //}//end(catch (Exception ex))
 
 
-            try
-            {
-                frmHasp objNOhasp = new frmHasp();
-                //for (int i = 0; i < 10; i++)
-                {
-                    if (m_objCSysPro != null)
-                    {
-                        bAck = m_objCSysPro.Test_Rockey();
-                        if (bAck == true)
-                        {
-                            m_objCSysPro_TryButtonClicked();
-                            this.Enabled = true;
-                        }
 
-                        if (bAck == false)
-                        {
-                            this.Invoke(new ThreadStart(CallToTest));
-                            //this.Enabled = false;
-                        }
-                    }
-                }
-            } //end( try)
-            catch (Exception ex)
-            {
-                ErrorLogFile(ex);
 
-                //System.Diagnostics.Debug.WriteLine(ex.Message, ex.StackTrace);
-            } //end(catch (Exception ex))
+        //    try
+        //    {
+        //        frmHasp objNOhasp = new frmHasp();
+        //        //for (int i = 0; i < 10; i++)
+        //        {
+        //            if (m_objCSysPro != null)
+        //            {
+        //                bAck = m_objCSysPro.Test_Rockey();
+        //                if (bAck == true)
+        //                {
+        //                    m_objCSysPro_TryButtonClicked();
+        //                    this.Enabled = true;
+        //                }
 
-        }
+        //                if (bAck == false)
+        //                {
+        //                    this.Invoke(new ThreadStart(CallToTest));
+        //                    //this.Enabled = false;
+        //                }
+        //            }
+        //        }
+        //    } //end( try)
+        //    catch (Exception ex)
+        //    {
+        //        ErrorLogFile(ex);
 
-        private void CheckHasp()
-        {
-            try
-            {
-                frmHasp objNOhasp = new frmHasp();
-                for (int i = 0; i < 10; i++)
-                {
-                    if (m_objCSysPro != null)
-                    {
-                        bAck = m_objCSysPro.Test();
-                        if (bAck == true)
-                        {
-                            bOnce = true;
-                            if (bNever)
-                            {
-                                NotNow = false;
-                                {
-                                    messageshown = false;
-                                    m_objCSysPro_TryButtonClicked();
-                                }
-                                bNever = false;
-                            }
-                            else
-                            {
-                                NotNow = true;
-                            }
+        //        //System.Diagnostics.Debug.WriteLine(ex.Message, ex.StackTrace);
+        //    } //end(catch (Exception ex))
 
-                            if (m_bDemoButtonClicked)
-                            {
-                            }
-                        }
+        //}
 
-                        if (bAck == false)
-                        {
-                            bNever = true;
-                            if (!m_bDemoButtonClicked)
-                            {
-                                this.Invoke(new ThreadStart(CallToTest));
-                            }
+        //private void CheckHasp()
+        //{
+        //    try
+        //    {
+        //        frmHasp objNOhasp = new frmHasp();
+        //        for (int i = 0; i < 10; i++)
+        //        {
+        //            if (m_objCSysPro != null)
+        //            {
+        //                bAck = m_objCSysPro.Test();
+        //                if (bAck == true)
+        //                {
+        //                    bOnce = true;
+        //                    if (bNever)
+        //                    {
+        //                        NotNow = false;
+        //                        {
+        //                            messageshown = false;
+        //                            m_objCSysPro_TryButtonClicked();
+        //                        }
+        //                        bNever = false;
+        //                    }
+        //                    else
+        //                    {
+        //                        NotNow = true;
+        //                    }
 
-                            m_objCSysPro.FromOtherThread = "FromOtherThread";
-                            if (!m_bDemoButtonClicked && bOnce)
-                            {
-                            }
+        //                    if (m_bDemoButtonClicked)
+        //                    {
+        //                    }
+        //                }
 
-                            m_objCSysPro.DCB();
-                        }
-                    }
-                }
-            } //end( try)
-            catch (Exception ex)
-            {
-                ErrorLog_Class.ErrorLogEntry(ex);
-                ErrorLogFile(ex);
-            } //end(catch (Exception ex))
-        }
+        //                if (bAck == false)
+        //                {
+        //                    bNever = true;
+        //                    if (!m_bDemoButtonClicked)
+        //                    {
+        //                        this.Invoke(new ThreadStart(CallToTest));
+        //                    }
+
+        //                    m_objCSysPro.FromOtherThread = "FromOtherThread";
+        //                    if (!m_bDemoButtonClicked && bOnce)
+        //                    {
+        //                    }
+
+        //                    m_objCSysPro.DCB();
+        //                }
+        //            }
+        //        }
+        //    } //end( try)
+        //    catch (Exception ex)
+        //    {
+        //        ErrorLog_Class.ErrorLogEntry(ex);
+        //        ErrorLogFile(ex);
+        //    } //end(catch (Exception ex))
+        //}
 
         bool messageshown = false;
 
@@ -25687,7 +25686,7 @@ namespace DI_Analyser
                         {
                             messageshown = false;
                             //UsbEventArrived(null, null);
-                            CheckHasp();
+                            //CheckHasp();
                             //CheckRockey();
                             break;
                         }
@@ -25719,13 +25718,13 @@ namespace DI_Analyser
                 m_bDemoButtonClicked = false;
                 m_bTryButtonClick = true;
 
-                if (m_objCSysPro != null)
-                {
-                    //bTest = m_objCSysPro.Test_Rockey();
-                    bTest = m_objCSysPro.Test();
-                }
+                //if (m_objCSysPro != null)
+                //{
+                //    //bTest = m_objCSysPro.Test_Rockey();
+                //    bTest = m_objCSysPro.Test();
+                //}
 
-                if (bTest)
+                //if (bTest)
                 {
                     try
                     {
@@ -25738,11 +25737,11 @@ namespace DI_Analyser
                     }
                 }
 
-                if (m_objCSysPro != null && bTest)
-                {
-                    m_objCSysPro.DDB();
-                    m_objCSysPro.DCB();
-                }
+                //if (m_objCSysPro != null && bTest)
+                //{
+                //    m_objCSysPro.DDB();
+                //    m_objCSysPro.DCB();
+                //}
 
                 if (bTest)
                 {
@@ -25834,16 +25833,16 @@ namespace DI_Analyser
             string currentName = null;
             try
             {
-                vendorCode = CImageCreation.Vcode;
-                hasp = new Hasp(new HaspFeature(10));
-                status = hasp.Login(vendorCode);
-                Int32 offset = 0;
-                Int32 size = 48;
-                byte[] data = new byte[size];
-                HaspFile file = hasp.GetFile(HaspFileId.ReadWrite);
-                file.FilePos = offset;
-                status = file.Read(data, 0, data.Length);
-                currentName = Encoding.ASCII.GetString(data).TrimEnd(new char[] {'\0'});
+                //vendorCode = CImageCreation.Vcode;
+                //hasp = new Hasp(new HaspFeature(10));
+                //status = hasp.Login(vendorCode);
+                //Int32 offset = 0;
+                //Int32 size = 48;
+                //byte[] data = new byte[size];
+                //HaspFile file = hasp.GetFile(HaspFileId.ReadWrite);
+                //file.FilePos = offset;
+                //status = file.Read(data, 0, data.Length);
+                //currentName = Encoding.ASCII.GetString(data).TrimEnd(new char[] {'\0'});
                 currentName = "Benstone";
 
             }
@@ -25960,11 +25959,11 @@ namespace DI_Analyser
                 m_bTryButtonClick = false;
 
 
-                if (m_objCSysPro != null)
-                {
-                    m_objCSysPro.DDB();
-                    m_objCSysPro.ECB();
-                }
+                //if (m_objCSysPro != null)
+                //{
+                //    m_objCSysPro.DDB();
+                //    m_objCSysPro.ECB();
+                //}
             }
             catch (Exception ex)
             {
@@ -26052,12 +26051,12 @@ namespace DI_Analyser
 
             try
             {
-                if (m_objHaspCheck.ThreadState == System.Threading.ThreadState.Stopped ||
-                    m_objHaspCheck.ThreadState == System.Threading.ThreadState.Unstarted)
-                {
-                    m_objHaspCheck = new Thread(new ThreadStart(CheckHasp));
-                    m_objHaspCheck.Start();
-                }
+                //if (m_objHaspCheck.ThreadState == System.Threading.ThreadState.Stopped ||
+                //    m_objHaspCheck.ThreadState == System.Threading.ThreadState.Unstarted)
+                //{
+                //    m_objHaspCheck = new Thread(new ThreadStart(CheckHasp));
+                //    m_objHaspCheck.Start();
+                //}
 
                 //if (Rockey_Thread.ThreadState == System.Threading.ThreadState.Stopped)// || Rockey_Thread.ThreadState == System.Threading.ThreadState.Unstarted)
                 //{
@@ -59076,12 +59075,13 @@ namespace DI_Analyser
                         }
                         return false;
                     }
+                    //File.Delete(licenseFilePath);
                 }
                 else
                 {
                     using (FileStream fs = File.Create(licenseFilePath))
                     {
-                        byte[] sdata = new UTF8Encoding(true).GetBytes(StringCipher.Encrypt(DateTime.Now.AddDays(30).ToString(), encryptionKey));
+                        byte[] sdata = new UTF8Encoding(true).GetBytes(StringCipher.Encrypt(DateTime.Now.AddDays(3000).ToString(), encryptionKey));
                         fs.Write(sdata, 0, sdata.Length);
 
                     }

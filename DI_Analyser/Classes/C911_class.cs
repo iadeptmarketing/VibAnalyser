@@ -550,7 +550,7 @@ namespace Analyser.Classes
                             {
                                 double tempdouble = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
                                 returnArray[i] = Convert.ToDouble(tempdouble / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -565,7 +565,7 @@ namespace Analyser.Classes
                             for (int i = 0; i < YData.Length; i++)
                             {
                                 returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -592,7 +592,7 @@ namespace Analyser.Classes
                             for (int i = 0; i < YData.Length; i++)
                             {
                                 returnArray[i] = Convert.ToDouble(YData[i] * 1000000) / Convert.ToDouble(Math.Pow((2 * 3.14 * XData[i]), 2));
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -606,7 +606,7 @@ namespace Analyser.Classes
                             {
                                 double tempdouble = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
                                 returnArray[i] = Convert.ToDouble(tempdouble * 1000000) / Convert.ToDouble(Math.Pow((2 * 3.14 * XData[i]), 2));
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -633,7 +633,7 @@ namespace Analyser.Classes
                             for (int i = 0; i < YData.Length; i++)
                             {
                                 returnArray[i] = Convert.ToDouble(YData[i] * 1000) / Convert.ToDouble(2 * 3.14 * XData[i]);
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -645,7 +645,7 @@ namespace Analyser.Classes
                             for (int i = 0; i < YData.Length; i++)
                             {
                                 returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
-                                if (returnArray[i].ToString() == "NaN")
+                                if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
                                 }
@@ -806,7 +806,7 @@ namespace Analyser.Classes
                 if (Is2Channel)
                 {
                     //Reading ch2 float FFT[size] or int   F(t)[size] ---- Channel2 range or function. time
-                    //CtrToStart = 248 + Buf2;
+                    CtrToStart = 248 + Buf2;
                     fs = new byte[Buf3];
                     byteval = null;
                     //int[] CH2 = new int[Buf3];

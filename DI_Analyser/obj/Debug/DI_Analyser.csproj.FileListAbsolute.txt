@@ -1308,67 +1308,70 @@ C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Applicati
 C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
 C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
 C:\Users\User\Desktop\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmHasp.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.cache
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
-C:\Users\User\Desktop\Amit Jain\latest analyser 9 sep 2021 with setup\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe.config
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.exe
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\VibAnalyser.pdb
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AKSHASP.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevComponents.DotNetBar2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Data.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Utils.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraBars.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPrinting.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraReports.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\FFT Interpretation.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\iAMChart3DNet.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\Interop.Word.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\OpenNETCF.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\R4ND_VS2005_Control.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\trial6.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraCharts.v8.2.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.Charts.v8.2.Core.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\DevExpress.XtraPivotGrid.v8.2.Core.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug\IMChart2D.pdb
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\bin\Debug\VibAnalyser.exe.config
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\bin\Debug\VibAnalyser.exe
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\bin\Debug\VibAnalyser.pdb
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.AssemblyReference.cache
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Interop.ImpaqFileSystemLib.dll
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.ResolveComReference.cache
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.BalDataForm.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmnewFolder.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmOpenFile.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.frmRpmCount.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.frmTable.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnection.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.AllForms.Unit_IMXA.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls._3DGraphControl.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.BarChart.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.DataGrid_Control.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.LineGraphControl.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.PolarPlot.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Forms.TrendNodes_Form.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Graph_Controls.WaterFallNodes_FormControl1.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Reporting.CSVBandReport.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.CSVReport1.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Form1.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.frmAboutus.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Forms.InstrumentConnectionForm.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\iAdeptMain.AllForms.octaveSettings.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.PrintRibbonControllerResources.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Properties.Resources.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.Report.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandRatio.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandTrend.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.SideBandValue.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.MultiFileReport.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.SelectedReport.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\Analyser.Reporting.WAVESelectedReport.resources
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.GenerateResource.cache
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe.licenses
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CoreCompileInputs.cache
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\DI_Analyser.csproj.CopyComplete
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.exe
+F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\obj\Debug\VibAnalyser.pdb
