@@ -806,7 +806,7 @@ namespace Analyser.Classes
                 if (Is2Channel)
                 {
                     //Reading ch2 float FFT[size] or int   F(t)[size] ---- Channel2 range or function. time
-                    CtrToStart = 248 + Buf2;
+                    //CtrToStart = 248 + Buf2;
                     fs = new byte[Buf3];
                     byteval = null;
                     //int[] CH2 = new int[Buf3];
@@ -949,7 +949,7 @@ namespace Analyser.Classes
 
                 //Read dF
                 ctrStructure = 24;
-                _dF = Math.Round(Convert.ToDouble(BytetoFloat(devicedata, ctrStructure)), 3);
+                _dF = Convert.ToDouble(BytetoFloat(devicedata, ctrStructure));
 
                 //Read Window
                 ctrStructure = 54;
@@ -983,6 +983,7 @@ namespace Analyser.Classes
                 }
                 else if (_Measurement == 1) // For FFT
                 {
+                    _dF = Math.Round(_dF, 3);
                     Number_Of_Spectrum = (1 << (_pwr2 - 6)) * 25;
                 }
 
