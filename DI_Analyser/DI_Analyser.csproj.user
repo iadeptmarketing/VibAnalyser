@@ -12,7 +12,7 @@
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <StartWorkingDirectory>F:\Backup without Public Access march 2023\Analyser Setup and Code 2023\latest analyser 29 june 2019\15 feb analyser 1.1 Application hasp\DI_Analyser\bin\Debug</StartWorkingDirectory>
+    <StartWorkingDirectory>C:\Code\VibAnalyser\bin\Debug</StartWorkingDirectory>
     <EnableUnmanagedDebugging>true</EnableUnmanagedDebugging>
     <EnableSQLServerDebugging>false</EnableSQLServerDebugging>
   </PropertyGroup>

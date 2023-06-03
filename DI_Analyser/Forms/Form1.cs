@@ -25335,6 +25335,7 @@ namespace DI_Analyser
             this.ribbonControl1.ApplicationIcon = Resources.vibanalyst;
             try
             {
+                if(objStartProcess!=null)
                 objStartProcess.Kill();
             }
             catch (Exception ex)
@@ -27061,11 +27062,11 @@ namespace DI_Analyser
         {
             try
             {
-                if (m_objHaspCheck.ThreadState == System.Threading.ThreadState.Running ||
-                    m_objHaspCheck.ThreadState == System.Threading.ThreadState.WaitSleepJoin)
-                {
-                    m_objHaspCheck.Abort();
-                }
+                //if (m_objHaspCheck.ThreadState == System.Threading.ThreadState.Running ||
+                //    m_objHaspCheck.ThreadState == System.Threading.ThreadState.WaitSleepJoin)
+                //{
+                //    m_objHaspCheck.Abort();
+                //}
 
                 //if (Rockey_Thread.ThreadState == System.Threading.ThreadState.Running || Rockey_Thread.ThreadState == System.Threading.ThreadState.WaitSleepJoin)
                 //{
@@ -39030,6 +39031,25 @@ namespace DI_Analyser
             }
         }
 
+        public bool SetIsOrbit
+        {
+            get { return IsOrbitPlot; }
+            set
+            {
+                IsOrbitPlot = value;
+                if (IsOrbitPlot)
+                {
+                    bbOrbit.Caption = "Normal";
+                }
+                else
+                {
+                    bbOrbit.Caption = "Orbit";
+                }
+
+                TrendingButtons(value);
+            }
+        }
+
         public bool BearingFaultFrequency
         {
             get { return _BearingFaultFrequency; }
@@ -39477,8 +39497,8 @@ namespace DI_Analyser
             {
                 // SetAxis();
                 TreeListNode SelectedNode = e.Node;
-                if ((!SetIsTrend && !IsWaterfall) || previousnode == "WAVFile" || previousnode == "DATFile"
-                ) // if (!SetIsTrend && !IsWaterfall)
+                
+                if ((!SetIsTrend && !IsWaterfall) || previousnode == "WAVFile" || previousnode == "DATFile") // if (!SetIsTrend && !IsWaterfall)
                 {
                     ClearAllGraphs();
                     GetBandData();
@@ -39505,6 +39525,8 @@ namespace DI_Analyser
                 SetLabelDefault();
                 SetDatagridtoOriginal();
                 ChartFooter = null;
+                if (SelectedNode.Tag == null)
+                    return;
                 switch (SelectedNode.Tag.ToString())
                 {
                     case "FFTFile":
@@ -40333,7 +40355,7 @@ namespace DI_Analyser
 
                                     for (int i = 0; i < arlNewTime.Count; i++)
                                     {
-                                        string filename = (string) arlNewTime[i];
+                                        string filename = (string)arlNewTime[i];
                                         string filepath = ("c:\\vvtemp\\" + filename + ".txt");
                                         ReadTXTfile(filepath, true);
                                         arrXYValues.Add(xarray);
@@ -40364,7 +40386,7 @@ namespace DI_Analyser
                                         double[] CrestFactor = new double[arrXYValues.Count / 2];
                                         for (int i = 1; i < arrXYValues.Count; i++)
                                         {
-                                            CrestFactor[j] = CalculateCrestFactor((double[]) arrXYValues[i]);
+                                            CrestFactor[j] = CalculateCrestFactor((double[])arrXYValues[i]);
                                             j++;
                                             i++;
                                         }
@@ -40411,6 +40433,36 @@ namespace DI_Analyser
                                     }
                                 }
                             }
+                        }
+                        else if (SetIsOrbit)
+                        {
+                            string[] sarrColorTag = new string[1];
+                            arrXYValues.Clear();
+                            
+                            string filename = dataGridView2.Rows[e.RowIndex].Cells[0].Value.ToString();
+                            string filepath = ("c:\\vvtemp\\" + filename + ".txt");
+                            ReadTXTfile(filepath, true);
+                            string sCh1Filename = filename;
+                            arrXYValues.Add(yarray);
+                            xarrayNew = yarray;
+                            for (int i = 0; i < dataGridView2.Rows.Count; i++)
+                            {
+                                dataGridView2.Rows[i].Cells[1].Value = "X";
+                                if (dataGridView2.Rows[i].Cells[0].Value.ToString().Contains(sCh1Filename + "_Ch"))
+                                {
+                                    dataGridView2.Rows[i].Cells[1].Value = "√";
+                                    filename = dataGridView2.Rows[i].Cells[0].Value.ToString();
+                                    filepath = ("c:\\vvtemp\\" + filename + ".txt");
+                                    ReadTXTfile(filepath, true);
+                                    sarrColorTag[0] = dataGridView2.Rows[e.RowIndex].Cells[3].Tag.ToString();
+                                    arrXYValues.Add(yarray);
+                                    yarrayNew = yarray;
+                                    
+                                }
+                            }
+                            dataGridView2.Rows[e.RowIndex].Cells[1].Value = "√";
+                            DrawLineGraphs(arrXYValues, sarrColorTag);
+
                         }
                         else
                         {
@@ -44042,6 +44094,7 @@ namespace DI_Analyser
             try
             {
                 // this.Enabled = true;
+                if(BusyImageProcess!=null)
                 BusyImageProcess.Kill();
                 this.Cursor = Cursors.Default;
             }
@@ -44885,7 +44938,7 @@ namespace DI_Analyser
         {
             try
             {
-                IsOrbitPlot = !IsOrbitPlot;
+                SetIsOrbit = !SetIsOrbit;
                 string SelectedCursorItem = cmbCurSors.Items[0].ToString();
                 CmbCursorSelectedItem(SelectedCursorItem);
                 if (IsOrbitPlot)
@@ -44896,6 +44949,25 @@ namespace DI_Analyser
                 {
                     Set_iClick(Function.Clear);
                     // StopTrending();
+                    arrXYValues.Clear();
+                    string[] sarrColorTag = new string[1];
+                    for (int i = 0; i < dataGridView2.Rows.Count; i++)
+                    {
+                        if (dataGridView2.Rows[i].Cells[1].Value.ToString() == "√")
+                        {
+                            sarrColorTag[0] = dataGridView2.Rows[i].Cells[3].Tag.ToString();
+                            string filename = dataGridView2.Rows[i].Cells[0].Value.ToString();
+                            string filepath = ("c:\\vvtemp\\" + filename + ".txt");
+                            ReadTXTfile(filepath, true);
+                            //arrSelTime.Add(arlNewTime[i].ToString());
+                            arrXYValues.Add(xarray);
+                            arrXYValues.Add(yarray);
+                            xarrayNew = xarray;
+                            yarrayNew = yarray;
+                            break;
+                        }
+                    }
+                    DrawLineGraphs(arrXYValues, sarrColorTag);
                 }
 
                 OrbitButtons(IsOrbitPlot);
@@ -44978,6 +45050,7 @@ namespace DI_Analyser
             arrXYVals = null;
             arrXYVals1 = null;
             string[] colors = null;
+            string sCh1Filename = null;
             string[] ColorCode =
             {
                 "7667712", "16751616", "4684277", "7077677", "16777077", "9868951", "2987746", "4343957", "16777216",
@@ -45025,20 +45098,46 @@ namespace DI_Analyser
                     // if (_objUserControl != null)
                     {
                         arlstSColors = new ArrayList();
-                        CallClearDataGridMain();
+                        //CallClearDataGridMain();
                         colors = new string[1];
-                        if (Time_Mag.Count > 0)
-                        {
-                            dataGridView2.Rows.Add(Time_Mag.Count);
-                        }
-
+                        arrXYValues.Clear();
                         int icc = 0;
-                        for (int i = 0; i < Time_Mag.Count; i++)
+                        for (int i = 0; i < dataGridView2.Rows.Count; i++)
                         {
-                            dataGridView2.Rows[i].Cells[1].Value = "X";
-                            dataGridView2.Rows[i].Cells[0].Value = Time_Mag[i].ToString();
-                            dataGridView2.Rows[i].Cells[3].Value = objlistimg.Images[icc];
-                            dataGridView2.Rows[i].Cells[3].Tag = ColorCode[icc].ToString();
+                            if (dataGridView2.Rows[i].Cells[0].Value.ToString().Contains("Ch"))
+                                return;
+
+                            if (dataGridView2.Rows[i].Cells[1].Value.ToString() == "√")
+                            {
+                                string filename = dataGridView2.Rows[i].Cells[0].Value.ToString();
+                                string filepath = ("c:\\vvtemp\\" + filename + ".txt");
+                                ReadTXTfile(filepath, true);
+                                //arrSelTime.Add(arlNewTime[i].ToString());
+                                //arrXYValues.Add(xarray);
+                                sCh1Filename = filename;
+                                arrXYValues.Add(yarray);
+                                xarrayNew = yarray;
+                                break;
+                            }
+                        }
+                        for (int i = 0; i < dataGridView2.Rows.Count; i++)
+                        {
+                            if (dataGridView2.Rows[i].Cells[0].Value.ToString().Contains(sCh1Filename+"_Ch"))
+                            {
+                                dataGridView2.Rows[i].Cells[1].Value = "√";
+                                string filename = dataGridView2.Rows[i].Cells[0].Value.ToString();
+                                string filepath = ("c:\\vvtemp\\" + filename + ".txt");
+                                ReadTXTfile(filepath, true);
+                                //arrSelTime.Add(arlNewTime[i].ToString());
+                                //arrXYValues.Add(xarray);
+                               
+                                arrXYValues.Add(yarray);
+                                yarrayNew = yarray;
+                                break;
+                            }
+                            //dataGridView2.Rows[i].Cells[0].Value = Time_Mag[i].ToString();
+                            //dataGridView2.Rows[i].Cells[3].Value = objlistimg.Images[icc];
+                            //dataGridView2.Rows[i].Cells[3].Tag = ColorCode[icc].ToString();
                             color++;
                             icc++;
                             if (icc >= 30)
@@ -45047,20 +45146,13 @@ namespace DI_Analyser
                             }
                         }
                     }
-                    dataGridView2.Rows[0].Cells[1].Value = "√";
-                    Time_selected.Add(Time_Mag[0].ToString());
-                    arlstSColors.Add(ColorCode[0]);
-                    colors[0] = ColorCode[0].ToString();
-                    dataGridView2.Rows[dataGridView2.Rows.Count - 1].Cells[3].Value = Resources.White;
-                    //arrXYVals = objIHand.GetAllPlotValues(PublicClass.SPointID, null, Time_selected, "Time", "Vertical");
-                    //arrXYVals1 = objIHand.GetAllPlotValues(PublicClass.SPointID, null, Time_selected, "Time", "Horizontal");
-                    //if (arrXYVals.Count > 1 && arrXYVals1.Count > 1)
-                    //{
-                    //    ArrayList arlOrbitData = new ArrayList();
-                    //    arlOrbitData.Add((double[])arrXYVals1[1]);
-                    //    arlOrbitData.Add((double[])arrXYVals[1]);
-                    //    DrawLineOrbitGraphs(arlOrbitData, colors);
-                    //}
+                    DrawLineGraphs(arrXYValues, ColorCode);
+                    //dataGridView2.Rows[0].Cells[1].Value = "√";
+                    //Time_selected.Add(Time_Mag[0].ToString());
+                    //arlstSColors.Add(ColorCode[0]);
+                    //colors[0] = ColorCode[0].ToString();
+                    //dataGridView2.Rows[dataGridView2.Rows.Count - 1].Cells[3].Value = Resources.White;
+                    
                 }
                 catch
                 {

@@ -2820,7 +2820,7 @@
             this.bbOrbit.Caption = "Orbit";
             this.bbOrbit.Id = 7;
             this.bbOrbit.Name = "bbOrbit";
-            this.bbOrbit.Visibility = DevExpress.XtraBars.BarItemVisibility.Never;
+            this.bbOrbit.Visibility = DevExpress.XtraBars.BarItemVisibility.Always;
             this.bbOrbit.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.bbOrbit_ItemClick);
             // 
             // bbSCL

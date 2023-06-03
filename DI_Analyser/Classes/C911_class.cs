@@ -17,6 +17,10 @@ namespace Analyser.Classes
         string[] ColorCode = { "7667712", "16751616", "4684277", "7077677", "16777077", "9868951", "2987746", "4343957", "16777216", "23296", "16711681", "8388652", "6972", "16776961", "7722014", "32944", "7667573", "7357301", "12042869", "60269", "14774017", "5103070", "14513374", "5374161", "38476", "3318692", "29696", "6737204", "16728065", "744352" };
 
         bool Is2Channel = false;
+        public bool _IsTimeData
+        {
+            get;set;
+        }
         public bool _Is2Channel
         {
             get
@@ -564,7 +568,10 @@ namespace Analyser.Classes
 
                             for (int i = 0; i < YData.Length; i++)
                             {
-                                returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
+                                if (_IsTimeData)
+                                    returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * (1 / XData[i]));
+                                else
+                                    returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
                                 if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
@@ -591,7 +598,10 @@ namespace Analyser.Classes
                         {
                             for (int i = 0; i < YData.Length; i++)
                             {
-                                returnArray[i] = Convert.ToDouble(YData[i] * 1000000) / Convert.ToDouble(Math.Pow((2 * 3.14 * XData[i]), 2));
+                                if (_IsTimeData)
+                                    returnArray[i] = Convert.ToDouble(YData[i] * 1000000) / Convert.ToDouble(Math.Pow((2 * 3.14 * (1 / XData[i])), 2));
+                                else
+                                    returnArray[i] = Convert.ToDouble(YData[i] * 1000000) / Convert.ToDouble(Math.Pow((2 * 3.14 * XData[i]), 2));
                                 if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
@@ -632,7 +642,10 @@ namespace Analyser.Classes
                         {
                             for (int i = 0; i < YData.Length; i++)
                             {
-                                returnArray[i] = Convert.ToDouble(YData[i] * 1000) / Convert.ToDouble(2 * 3.14 * XData[i]);
+                                if (_IsTimeData)
+                                    returnArray[i] = Convert.ToDouble(YData[i] * 1000 * XData[i]) / Convert.ToDouble(2 * 3.14);
+                                else
+                                    returnArray[i] = Convert.ToDouble(YData[i] * 1000) / Convert.ToDouble(2 * 3.14 * XData[i]);
                                 if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
@@ -644,7 +657,10 @@ namespace Analyser.Classes
                         {
                             for (int i = 0; i < YData.Length; i++)
                             {
-                                returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
+                                if (_IsTimeData)
+                                    returnArray[i] = Convert.ToDouble(YData[i] / 1000 * XData[i]) / Convert.ToDouble(2 * 3.14);
+                                else
+                                    returnArray[i] = Convert.ToDouble(YData[i] / 1000) * Convert.ToDouble(2 * 3.14 * XData[i]);
                                 if (returnArray[i].ToString() == "NaN" || XData[i] == 0)
                                 {
                                     returnArray[i] = 0;
@@ -806,7 +822,7 @@ namespace Analyser.Classes
                 if (Is2Channel)
                 {
                     //Reading ch2 float FFT[size] or int   F(t)[size] ---- Channel2 range or function. time
-                    CtrToStart = 248 + Buf2;
+                    //CtrToStart = 248 + Buf2;
                     fs = new byte[Buf3];
                     byteval = null;
                     //int[] CH2 = new int[Buf3];
@@ -949,7 +965,7 @@ namespace Analyser.Classes
 
                 //Read dF
                 ctrStructure = 24;
-                _dF = Math.Round(Convert.ToDouble(BytetoFloat(devicedata, ctrStructure)), 3);
+                _dF = Convert.ToDouble(BytetoFloat(devicedata, ctrStructure));
 
                 //Read Window
                 ctrStructure = 54;
@@ -980,10 +996,13 @@ namespace Analyser.Classes
                 if(_Measurement==0) // For Time
                 {
                     Number_Of_Spectrum = 1 << _pwr2;
+                    _IsTimeData = true;
                 }
                 else if (_Measurement == 1) // For FFT
                 {
+                    _dF = Math.Round(_dF, 3);
                     Number_Of_Spectrum = (1 << (_pwr2 - 6)) * 25;
+                    _IsTimeData = false;
                 }
 
                 HighestFrequency = dF * Number_Of_Spectrum;
